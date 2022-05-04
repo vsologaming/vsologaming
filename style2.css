@@ -1,0 +1,40 @@
+#text-1{
+
+	font-size:20px;
+	color:blue;
+	 padding: 90px 40px 0 400px;
+}
+.divsetting1 btn{
+	
+
+	
+} 
+.button1{
+	 border-radius: 30%;
+	  background-color: #FFD700; /*black*/
+		 border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+	
+}
+.image{
+	background-color: #f1f1f1;
+	
+	
+	
+}
+
+.image img{
+	
+	 padding: 90px 80px 0 400px;
+	
+	
+	
+}
